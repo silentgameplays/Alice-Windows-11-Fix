@@ -44,15 +44,11 @@ Making Alice from 2000 work on Modern OS's
 
 7. Look for AliceEngine.ini file
 
-8. Edit it with notepad: 
-# Change this one line: 
-* GIsSpecialPCEdition=FALSE 
-# to
-* GIsSpecialPCEdition=TRUE
-# Change this line
-" Alice1Path=..\..\..\Alice1\bin " 
-# To
-" Alice1Path=..\..\Alice1\bin "
+8. Edit it with notepad,replace the entire [AliceGame.AliceGameEngine] seection with these lines:
+
+[AliceGame.AliceGameEngine]
+Alice1Path=..\..\Alice1\bin
+GIsSpecialPCEdition=TRUE
 
 9. Launch Alice:Madness Returns again
 
