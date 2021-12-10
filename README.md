@@ -44,7 +44,7 @@ Making Alice from 2000 work on Modern OS's
 
 7. Look for AliceEngine.ini file
 
-8. Edit it with notepad,replace the entire [AliceGame.AliceGameEngine] seection with these lines:
+8. Edit it with notepad,replace the entire [AliceGame.AliceGameEngine] section with these lines:
 
  [AliceGame.AliceGameEngine]
  Alice1Path=
