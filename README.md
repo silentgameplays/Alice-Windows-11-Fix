@@ -21,7 +21,7 @@ Making Alice from 2000 work on Modern OS's
 
 8. Edit it with notepad:
 
-* Change this one line 
+# Change this one line: 
 * GIsSpecialPCEdition=FALSE 
 # to
 * GIsSpecialPCEdition=TRUE
