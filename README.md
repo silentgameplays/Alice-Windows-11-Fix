@@ -50,9 +50,9 @@ Making Alice from 2000 work on Modern OS's
 # to
 * GIsSpecialPCEdition=TRUE
 # Change this line
-> Alice1Path=..\..\..\Alice1\bin
+ Alice1Path=..\..\..\ Alice1\bin
 # To
-> Alice1Path=..\..\Alice1\bin
+ Alice1Path=..\..\ Alice1\bin
 
 9. Launch Alice:Madness Returns again
 
