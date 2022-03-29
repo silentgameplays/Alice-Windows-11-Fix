@@ -69,4 +69,4 @@ https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
 
 Hope it helps!
 
-# Cheers, silentgameplayzz:
+# Cheers, silentgamepls:
