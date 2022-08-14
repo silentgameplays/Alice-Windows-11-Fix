@@ -1,5 +1,7 @@
 # Alice-Windows-11-Fix
 Making Alice from 2000 work on Modern OS's
+# NB! The creator of this fix is not responsible if something will go wrong during install,or for any issues that arise on your OS/hardware.This fix is distributed under GPL 3.0 license.This tutorial is meant for enthusiasts,tinkerers and gamers who want the the game to work and are not affraid to take the risk of learning some new stuff in the process.
+
 # American McGee's Alice fix for Windows 11 for Origin  
 # Reviving another classic game: 
 # Here is how to get that American McGee's Alice Classic from 2000 working with the official version of Alice:Madness Returns 2011 from Origin and Steam
