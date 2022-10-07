@@ -41,6 +41,8 @@ Or Nextcloud
 
 4. Download Alice1 from this link: 
 * https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
+Or Nextcloud
+* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
 
 5. Copy the Alice1 folder into C:\Program Files (x86)\Steam\steamapps\common\Alice Madness Returns
 
