@@ -60,10 +60,21 @@ GIsSpecialPCEdition=TRUE
 
 10. Select option to play American McGee's Alice
 
+#(Optional) 60 FPS Fix for Alice Madness Returns:
+1. Go to C:\Program Files (x86)\Steam\steamapps\common\Alice Madness Returns\AliceGame\Config
+2. Find the DefaultEngine file 
+3. Edit with notepad
+4. Find the following values
+MinSmoothedFrameRate=22
+MaxSmoothedFrameRate=31
+5. Change one of these values to: 
+MinSmoothedFrameRate=22
+MaxSmoothedFrameRate=60
+
+
 #Additional steps if something is broken,game does not work correctly,etc:
 
 1. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
-
 
 2. Check on AMD/NVIDIA GPU’s if the driver is up to date,if not reinstall using DDU
 (no need for safe mode,just restart normally and install the latest driver version):
