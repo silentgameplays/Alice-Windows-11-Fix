@@ -95,11 +95,16 @@ GIsSpecialPCEdition=TRUE
 MinSmoothedFrameRate=22
 MaxSmoothedFrameRate=31
 5. Change one of these values to: 
-MinSmoothedFrameRate=22
+MinSmoothedFrameRate=60
 MaxSmoothedFrameRate=60
 
+#For Alice 1 DLC crashing in fullscreen mode:
+1. Go to C:\Users\User\Documents\My Games\American McGee's Alice
+2. Find the config.cfg file 
+3. #Add this line,even if not present:
+* seta r_fullscreen "0" to 1
 
-#Additional steps if something is broken,game does not work correctly,etc:
+# Additional steps if something is broken,game does not work correctly,etc:
 
 1. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
 
