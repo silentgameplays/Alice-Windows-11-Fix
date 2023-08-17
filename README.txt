@@ -13,8 +13,7 @@ Making Alice from 2000 work on Modern OS's
 3. Run the game at least once
 
 4. Download Alice1 from this link: 
-* https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
-Or Nextcloud
+Nextcloud:
 * https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
 
 5. Copy the Alice1 folder into C:\Program Files (x86)\Origin Games\Alice Madness Returns\Game
@@ -43,8 +42,7 @@ Or Nextcloud
 3. Run the game at least once
 
 4. Download Alice 1 from this link: 
-* https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
-Or Nextcloud:
+Nextcloud:
 * https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
 
 5. Go to C:\Users\User\Documents\My Games\Alice Madness Returns\AliceGame\Config
@@ -67,8 +65,7 @@ Or Nextcloud:
 3. Run the game at least once
 
 4. Download Alice1 from this link: 
-* https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
-Or Nextcloud
+Nextcloud:
 * https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
 
 5. Copy the Alice1 folder into C:\Program Files (x86)\Steam\steamapps\common\Alice Madness Returns
