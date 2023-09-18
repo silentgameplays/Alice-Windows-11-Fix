@@ -92,7 +92,7 @@ GIsSpecialPCEdition=TRUE
 MinSmoothedFrameRate=22
 MaxSmoothedFrameRate=31
 5. Change one of these values to: 
-MinSmoothedFrameRate=60
+MinSmoothedFrameRate=30
 MaxSmoothedFrameRate=60
 
 #For Alice 1 DLC crashing in fullscreen mode:
